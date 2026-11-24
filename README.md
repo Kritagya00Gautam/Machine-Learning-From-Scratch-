@@ -14,7 +14,7 @@ Three concepts are at the core of machine learning:
 
 ### Algorithms
 
-Machine learning algorithms make predictions from input data or adapt a
+Machine learning algorithms make predictions from input data or to adapt a
 model's parameters so that it performs well on data it has not seen before.
 
 ### Data

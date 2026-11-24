@@ -1,0 +1,43 @@
+Machile learning is the process of designing peculiar algorithms that can extract the data effectively,
+The emphasis here is on “automatic”, i.e.,
+machine learning is concerned about general-purpose methodologies that
+can be applied to many datasets, while producing something that is mean
+ingful.
+
+Initially talking about machine learning we come across a word algorithms 
+we can relate this word into multiple meanings
+
+machine learning algorithms is the system that makes predictions based on input data or 
+machine learning algorithms is the system that adapts some internal parameters of the 
+predictors so that it performs well to unseen or unrecognized data
+
+There are three concepts that are at the core of machine learning:
+data, a model, and learning
+
+data
+it is the things around which we design general purpose methodologies to extract valuable patterns
+from the data and achieve models of state-of-art results.Data shouls be appropriately converted
+into a numerical representation suitable for the computer system to read. we can say data are vectors.
+There are atleast three ways of representing vectors:-
+
+i) vector as an array of numbers
+ii) vector as an arrow with direction and magnitude
+iii) vector as an object that obey addition and scaling
+
+models
+the designs we build that learn from the given data, it performs tasks and it improves on the data 
+and show greater accuracy. Goal is to generalize models well into unseen data. It is a
+aimplified version of the real(unknown) data-generation process. Good models can be used to
+predict ehat would happen in the real world without performing rela world experiments.
+
+learning
+it is a way to automaticlly find patterns and structures in data by optimizing parameters of the model.
+this portion is the crux of the machine-learning. Most trainig methods can be thought as an
+approach analogous to climbing a hill to reach its peak. For real data we expose it to unseen data
+
+The foundations and four pillars of machine learning are:-
+
+Linear Algebra, Vector Calculus, Probability & Distributions, Optimization, Analytic Geometry,
+Matrix Decomposition
+
+Regression, Dimensionality Reduction, Density Estimation, Classification 
