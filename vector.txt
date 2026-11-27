@@ -1,0 +1,34 @@
+Vector spaces are the structured space in which vectors
+live
+
+groups
+it is a self contained playground of items(like numbers or vectors)
+and one rule for combining them like adding ar multiplication, where nothing
+can break and every move can be undone
+
+this matters in vector space because first of all our arrows mus behance like a well behaved 
+group when you add them together
+
+
+vector spaces
+
+here in the vector spaces we must not confuse the word inner and outer operations here 
+inner operations mean dot products where as the outer operations mean whether both
+inputs cane from inside the vector spcae or one comes from the outside
+
+vector subspaces
+they are used for dimensional Reduction
+
+imagine the 3-D space as a huge room. Inside that room, imagine a flat sheet of paper a 2-D plane
+or a straight laser beam 1-D line that passes directly through the origin
+
+if you take two arrows lying flat on that sheet of paper and add them together, or stretch
+them together, or streach an arrow of that paper by multiplying it by a number, resulting aroow
+stays flat on the same exact paper. You never poke out into the 3-D room. Because you are trapped
+inside the smaller slice no matter what vector oprations you perform and that slice is called 
+vector subspaces
+
+
+in machine learning real world datasets often have thousands of features yet the meaningful 
+patterns lie along a much simpler, lower dimensional flat slice-a vector subspaces
+
